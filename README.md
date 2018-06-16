@@ -54,3 +54,12 @@ FYI: The ID's are unique; each element can have only one ID and each page can ha
 - JQuery
 - Font Awesome
 - Simple Line Icons
+
+
+#### Save your changes to git
+```bash
+git status
+git add -A
+git commit -m "Checkin Comment"
+git push -u origin master
+```
